@@ -1,7 +1,6 @@
 # CycleGAN_PyTorch
 
-<a rel="nofollow noopener" target="_blank">Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks</a>
-
+<a href="https://arxiv.org/abs/1703.10593">Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks</a>
 
 
 //Trainig<br>
